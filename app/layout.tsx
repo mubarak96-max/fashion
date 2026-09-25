@@ -15,7 +15,7 @@ const editorial = Cormorant_Garamond({
 });
 
 export const metadata: Metadata = {
-  title: "Kori Mini | Modern occasionwear for children",
+  title: "Fashion site | Modern occasionwear for children",
   description:
     "Distinctive tailored outfits for children, designed for celebrations and made for movement.",
 };
