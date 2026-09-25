@@ -47,7 +47,7 @@ export default function Home() {
             src="/campaign/kampala-hero.webp"
             alt="Three children in ivory and cocoa occasionwear walking together on a sunlit Kampala pavement"
             fill
-            sizes="100vw"
+            sizes="(max-width: 767px) clamp(810px, 114svh, 1110px), 100vw"
             preload
             className="hero-photo"
           />
